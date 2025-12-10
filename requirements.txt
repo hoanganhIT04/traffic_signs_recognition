@@ -1,0 +1,18 @@
+# TensorFlow (chọn 1 trong 2)
+tensorflow==2.15.0          # Cho CPU
+# tensorflow-gpu==2.15.0    # Cho GPU (nếu có NVIDIA GPU)
+
+# Thư viện xử lý ảnh
+Pillow==10.1.0
+opencv-python==4.8.1.78
+
+# Thư viện vẽ đồ thị
+matplotlib==3.8.2
+
+# Thư viện khác
+numpy==1.24.3
+scikit-learn==1.3.2
+
+# Optional: Tăng tốc training
+# keras-tuner==1.4.6        # Để tune hyperparameters
+# tensorboard==2.15.1       # Để visualize training

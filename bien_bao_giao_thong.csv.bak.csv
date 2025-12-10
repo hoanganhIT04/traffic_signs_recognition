@@ -1,0 +1,218 @@
+﻿STT,Mã,Tên,Loại biển,Thông tin,Wiki,số lượng,loại biển
+1,P.101,Đường cấm,Biển báo cấm,,Có,31,1
+2,P.102,Cấm đi ngược chiều,Biển báo cấm,,Có,39,1
+3,P.103a,Cấm xe ô tô,Biển báo cấm,,Có,41,1
+4,P.103b,Cấm xe ô tô rẽ phải,Biển báo cấm,,Có,30,1
+5,P.103c,Cấm xe ô tô rẽ trái,Biển báo cấm,,Có,30,1
+6,P.104,Cấm mô tô,Biển báo cấm,,Có,30,1
+7,P.105,Cấm xe ô tô và mô tô,Biển báo cấm,,Có,32,1
+8,P.106a,Cấm xe tải,Biển báo cấm,,Có,32,1
+9,P.106b,"Cấm xe tải trên 2,5T",Biển báo cấm,,Có,37,1
+10,P.106c,Cấm xe tải chở hàng nguy hiểm,Biển báo cấm,,Có,30,1
+11,P.107,Cấm xe khách và xe tải,Biển báo cấm,,Có,30,1
+12,P.107a,Cấm xe khách,Biển báo cấm,,Có,30,1
+13,P.107b,Cấm xe taxi,Biển báo cấm,,Có,31,1
+14,P.108,Cấm xe kéo rơ-moóc,Biển báo cấm,,Có,31,1
+15,P.109,Cấm máy kéo,Biển báo cấm,,Có,30,1
+16,P.110a,Cấm xe đạp,Biển báo cấm,,Có,31,1
+17,P.110b,Cấm xe đạp thồ,Biển báo cấm,,Có,30,1
+18,P.111a,Cấm xe gắn máy,Biển báo cấm,,Có,31,1
+19,P.111b,Cấm xe lam,Biển báo cấm,,Có,30,1
+20,P.111c,Cấm xe lôi máy,Biển báo cấm,,Có,30,1
+21,P.111d,Cấm xe xích lô,Biển báo cấm,,Có,31,1
+22,P.112,Cấm người đi bộ,Biển báo cấm,,Có,30,1
+23,P.113,Cấm xe người kéo/đẩy,Biển báo cấm,,Có,32,1
+24,P.114,Cấm xe súc vật kéo,Biển báo cấm,,Có,31,1
+25,P.115,Hạn chế trọng lượng xe,Biển báo cấm,,Có,33,1
+26,P.116,Hạn chế trọng lượng trên trục xe,Biển báo cấm,,Có,31,1
+27,P.117,Hạn chế chiều cao xe,Biển báo cấm,,Có,34,1
+28,P.118,Hạn chế chiều ngang xe,Biển báo cấm,,Có,30,1
+29,P.119,Hạn chế chiều dài xe,Biển báo cấm,,Có,31,1
+30,P.120,Hạn chế chiều dài xe cơ giới kéo theo rơ-moóc hoặc sơ-mi rơ moóc,Biển báo cấm,,Có,34,1
+31,P.121,Cự ly tối thiểu giữa hai xe,Biển báo cấm,,Có,31,1
+32,P.123a,Cấm rẽ trái,Biển báo cấm,,Có,35,1
+33,P.123b,Cấm rẽ phải,Biển báo cấm,,Có,34,1
+34,P.124a,Cấm quay đầu xe,Biển báo cấm,,Có,30,1
+35,P.124b,Cấm xe ô tô quay đầu,Biển báo cấm,,Có,31,1
+36,P.125,Cấm vượt,Biển báo cấm,,Có,30,1
+37,P.126,Cấm xe tải vượt,Biển báo cấm,,Có,30,1
+38,P.127,Tốc độ tối đa cho phép,Biển báo cấm,,Có,35,1
+39,P.127a,Tốc độ tối đa cho phép vào ban đêm,Biển báo cấm,,Có,30,1
+40,P.128,Cấm sử dụng còi,Biển báo cấm,,Có,30,1
+41,P.129,Trạm thuế quan,Biển báo cấm,,Có,30,1
+42,P.130,Cấm dừng xe và đỗ xe,Biển báo cấm,,Có,38,1
+43,P.131a,Cấm đỗ xe,Biển báo cấm,,Có,41,1
+44,P.131b,Cấm đỗ xe ngày lẻ,Biển báo cấm,,Có,31,1
+45,P.131c,Cấm đỗ xe ngày chẵn,Biển báo cấm,,Có,33,1
+46,P.132,Nhường đường cho xe cơ giới đi ngược chiều qua đường hẹp,Biển báo cấm,,Có,31,1
+47,DP.133,Hết cấm vượt,Biển báo cấm,,Có,30,1
+48,DP.134,Hết hạn chế tốc độ tối đa,Biển báo cấm,,Có,32,1
+49,DP.135,Hết tất cả các lệnh cấm,Biển báo cấm,,Có,31,1
+50,P.136,Cấm đi thẳng,Biển báo cấm,,Có,30,1
+51,P.137,Cấm rẽ trái và rẽ phải,Biển báo cấm,,Có,30,1
+52,P.138,Cấm đi thẳng và rẽ trái,Biển báo cấm,,Có,31,1
+53,P.139,Cấm đi thẳng và rẽ phải,Biển báo cấm,,Có,31,1
+54,P.140,Cấm xe công nông và các loại xe tương tự,Biển báo cấm,,Có,31,1
+55,W.201a,Chỗ ngoặt nguy hiểm vòng bên trái,Biển báo nguy hiểm,,Có,31,2
+56,W.201b,Chỗ ngoặt nguy hiểm vòng bên phải,Biển báo nguy hiểm,,Có,30,2
+57,W.201c,Chỗ ngoặt nguy hiểm có nguy cơ lật xe bên phải,Biển báo nguy hiểm,,Có,31,2
+58,W.201d,Chỗ ngoặt nguy hiểm có nguy cơ lật xe bên trái,Biển báo nguy hiểm,,Có,31,2
+59,W.202a,Hai chỗ ngoặt ngược chiều nhau liên tiếp bên trái,Biển báo nguy hiểm,,Có,31,2
+60,W.202b,Hai chỗ ngoặt ngược chiều nhau liên tiếp bên phải,Biển báo nguy hiểm,,Có,34,2
+61,W.203a,Đường bị thu hẹp cả hai bên,Biển báo nguy hiểm,,Có,30,2
+62,W.203b,Đường bị thu hẹp bên trái,Biển báo nguy hiểm,,Có,31,2
+63,W.203c,Đường bị thu hẹp bên phải,Biển báo nguy hiểm,,Có,31,2
+64,W.204,Đường 2 chiều,Biển báo nguy hiểm,,Có,31,2
+65,W.205a,Đường giao nhau,Biển báo nguy hiểm,,Có,32,2
+66,W.205b,Đường giao nhau,Biển báo nguy hiểm,,Có,32,2
+67,W.205c,Đường giao nhau,Biển báo nguy hiểm,,Có,30,2
+68,W.205d,Đường giao nhau,Biển báo nguy hiểm,,Có,32,2
+69,W.205e,Đường giao nhau,Biển báo nguy hiểm,,Có,30,2
+70,W.206,Đường giao nhau chạy theo vòng xuyến,Biển báo nguy hiểm,,Có,30,2
+71,W.207a,Giao nhau với đường không ưu tiên,Biển báo nguy hiểm,,Có,33,2
+72,W.207b,Giao nhau với đường không ưu tiên,Biển báo nguy hiểm,,Có,40,2
+73,W.207c,Giao nhau với đường không ưu tiên,Biển báo nguy hiểm,,Có,34,2
+74,W.207d,Giao nhau với đường không ưu tiên,Biển báo nguy hiểm,,Có,30,2
+75,W.207e,Giao nhau với đường không ưu tiên,Biển báo nguy hiểm,,Có,30,2
+76,W.207f,Giao nhau với đường không ưu tiên,Biển báo nguy hiểm,,Có,30,2
+77,W.207g,Giao nhau với đường không ưu tiên,Biển báo nguy hiểm,,Có,30,2
+78,W.207h,Giao nhau với đường không ưu tiên,Biển báo nguy hiểm,,Có,30,2
+79,W.207i,Giao nhau với đường không ưu tiên,Biển báo nguy hiểm,,Có,32,2
+80,W.207k,Giao nhau với đường không ưu tiên,Biển báo nguy hiểm,,Có,30,2
+81,W.207l,Giao nhau với đường không ưu tiên,Biển báo nguy hiểm,,Có,31,2
+82,W.208,Giao nhau với đường ưu tiên,Biển báo nguy hiểm,,Có,31,2
+83,W.209,Giao nhau có tín hiệu đèn,Biển báo nguy hiểm,,Có,30,2
+84,W.210,Giao nhau với đường sắt có rào chắn,Biển báo nguy hiểm,,Có,30,2
+85,W.211a,Giao nhau với đường sắt không có rào chắn,Biển báo nguy hiểm,,Có,30,2
+86,W.211b,Giao nhau cùng mức với đường tàu điện,Biển báo nguy hiểm,,Có,30,2
+87,W.212,Cầu hẹp,Biển báo nguy hiểm,,Có,30,2
+88,W.213,Cầu tạm,Biển báo nguy hiểm,,Có,31,2
+89,W.214,Cầu xoay – cầu cất,Biển báo nguy hiểm,,Có,31,2
+90,W.215a,Kè – vực sâu phía trước,Biển báo nguy hiểm,,Có,30,2
+91,W.215b,Kè – vực sâu phía trước,Biển báo nguy hiểm,,Có,30,2
+92,W.215c,Kè – vực sâu phía trước,Biển báo nguy hiểm,,Có,31,2
+93,W.216a,Đường ngầm,Biển báo nguy hiểm,,Có,31,2
+94,W.216b,Đường ngầm có nguy cơ lũ quét,Biển báo nguy hiểm,,Có,31,2
+95,W.217,Bến phà,Biển báo nguy hiểm,,Có,30,2
+96,W.218,Cửa chui,Biển báo nguy hiểm,,Có,30,2
+97,W.219,Dốc xuống nguy hiểm,Biển báo nguy hiểm,,Có,30,2
+98,W.220,Dốc lên nguy hiểm,Biển báo nguy hiểm,,Có,32,2
+99,W.221a,Đường không bằng phẳng,Biển báo nguy hiểm,,Có,30,2
+100,W.221b,Đường không bằng phẳng,Biển báo nguy hiểm,,Có,35,2
+101,W.222a,Đường trơn,Biển báo nguy hiểm,,Có,32,2
+102,W.222b,Lề nguy hiểm,Biển báo nguy hiểm,,Có,30,2
+103,W.223a,Vách núi nguy hiểm,Biển báo nguy hiểm,,Có,32,2
+104,W.223b,Vách núi nguy hiểm,Biển báo nguy hiểm,,Có,33,2
+105,W.224,Đường dành cho người đi bộ cắt ngang,Biển báo nguy hiểm,,Có,39,2
+106,W.225,Trẻ em,Biển báo nguy hiểm,,Có,32,2
+107,W.226,Đường người đi xe đạp cắt ngang,Biển báo nguy hiểm,,Có,31,2
+108,W.227,Công trường,Biển báo nguy hiểm,,Có,39,2
+109,W.228a,Đá lở,Biển báo nguy hiểm,,Có,30,2
+110,W.228b,Đá lở,Biển báo nguy hiểm,,Có,35,2
+111,W.228c,Sỏi đá bắn lên,Biển báo nguy hiểm,,Có,0,2
+112,W.228d,Nền đường yếu,Biển báo nguy hiểm,,Có,0,2
+113,W.229,Dải máy bay lên xuống,Biển báo nguy hiểm,,Có,0,2
+114,W.230,Gia súc,Biển báo nguy hiểm,,Có,0,2
+115,W.231,Thú rừng vượt qua đường,Biển báo nguy hiểm,,Có,0,2
+116,W.232,Gió ngang,Biển báo nguy hiểm,,Có,0,2
+117,W.233,Nguy hiểm khác,Biển báo nguy hiểm,,Có,0,2
+118,W.234,Giao nhau với đường 2 chiều,Biển báo nguy hiểm,,Có,0,2
+119,W.235,Đường đôi,Biển báo nguy hiểm,,Có,0,2
+120,W.236,Hết đường đôi,Biển báo nguy hiểm,,Có,0,2
+121,W.237,Cầu vòng,Biển báo nguy hiểm,,Có,0,2
+122,W.238,Đường cao tốc phía trước,Biển báo nguy hiểm,,Có,0,2
+123,W.239a,Đường cáp điện ở phía trên,Biển báo nguy hiểm,,Có,0,2
+124,W.239b,Chiều cao an toàn,Biển báo nguy hiểm,,Có,0,2
+125,W.240,Đường hầm,Biển báo nguy hiểm,,Có,0,2
+126,W.241,Ùn tắc giao thông,Biển báo nguy hiểm,,Có,0,2
+127,W.243a,Nơi đường sắt giao không vuông góc với đường bộ,Biển báo nguy hiểm,,Có,0,14
+128,W.243b,Nơi đường sắt giao không vuông góc với đường bộ,Biển báo nguy hiểm,,Có,0,14
+129,W.243c,Nơi đường sắt giao không vuông góc với đường bộ,Biển báo nguy hiểm,,Có,0,14
+130,W.244,Đoạn đường hay xảy ra tai nạn,Biển báo nguy hiểm,,Có,0,2
+131,W.245a,Đi chậm,Biển báo nguy hiểm,,Có,0,2
+132,W.246a,Chú ý chướng ngại vật – Vòng tránh ra hai bên,Biển báo nguy hiểm,,Có,0,2
+133,W.246b,Chú ý chướng ngại vật – Vòng tránh sang bên trái,Biển báo nguy hiểm,,Có,0,2
+134,W.246c,Chú ý chướng ngại vật – Vòng tránh sang bên phải,Biển báo nguy hiểm,,Có,0,2
+135,W.247,Chú ý xe đỗ,Biển báo nguy hiểm,,Có,0,2
+136,R.122,Dừng lại,Biển hiệu lệnh,,Có,0,5
+137,R.301a,Hướng đi phải theo,Biển hiệu lệnh,,Có,0,1
+138,R.301b,Hướng đi phải theo,Biển hiệu lệnh,,Có,0,1
+139,R.301c,Hướng đi phải theo,Biển hiệu lệnh,,Có,0,1
+140,R.301d,Hướng đi phải theo,Biển hiệu lệnh,,Có,0,1
+141,R.301e,Hướng đi phải theo,Biển hiệu lệnh,,Có,0,1
+142,R.301f,Hướng đi phải theo,Biển hiệu lệnh,,Có,0,1
+143,R.301g,Hướng đi phải theo,Biển hiệu lệnh,,Có,0,1
+144,R.301h,Hướng đi phải theo,Biển hiệu lệnh,,Có,0,1
+145,R.302a,Hướng phải đi vòng chướng ngại vật,Biển hiệu lệnh,,Có,0,1
+146,R.302b,Hướng phải đi vòng chướng ngại vật,Biển hiệu lệnh,,Có,0,1
+147,R.302c,Hướng phải đi vòng chướng ngại vật,Biển hiệu lệnh,,Có,0,1
+148,R.303,Nơi giao nhau chạy theo vòng xuyến,Biển hiệu lệnh,,Có,0,1
+149,R.304,Đường dành cho xe thô sơ,Biển hiệu lệnh,,Có,0,1
+150,R.305,Đường dành cho người đi bộ,Biển hiệu lệnh,,Có,0,1
+151,R.306,Tốc độ tối thiểu cho phép,Biển hiệu lệnh,,Có,0,1
+152,R.307,Hết tốc độ tối thiểu,Biển hiệu lệnh,,Có,0,1
+153,R.308a,Tuyến đường cầu vượt cắt qua,Biển hiệu lệnh,,Có,0,1
+154,R.308b,Tuyến đường cầu vượt cắt qua,Biển hiệu lệnh,,Có,0,1
+155,R.309,Ấn còi,Biển hiệu lệnh,,Có,0,1
+156,R.310a,Hướng đi phải theo cho các xe chở hàng nguy hiểm,Biển hiệu lệnh,,Có,0,13
+157,R.310b,Hướng đi phải theo cho các xe chở hàng nguy hiểm,Biển hiệu lệnh,,Có,0,13
+158,R.310c,Hướng đi phải theo cho các xe chở hàng nguy hiểm,Biển hiệu lệnh,,Có,0,13
+159,R.403a,Đường dành cho xe ô tô,Biển hiệu lệnh,,Có,0,4
+160,R.403b,"Đường dành cho xe ô tô, xe máy",Biển hiệu lệnh,,Có,0,4
+161,R.403c,Đường dành cho xe buýt,Biển hiệu lệnh,,Có,0,4
+162,R.403d,Đường dành cho xe ô tô con,Biển hiệu lệnh,,Có,0,4
+163,R.403e,Đường dành cho xe máy,Biển hiệu lệnh,,Có,0,4
+164,R.403f,Đường dành cho xe máy và xe đạp,Biển hiệu lệnh,,Có,0,4
+165,R.404a,Hết đoạn đường dành cho xe ô tô,Biển hiệu lệnh,,Có,0,4
+166,R.404b,"Hết đoạn đường dành cho xe ô tô, xe máy",Biển hiệu lệnh,,Có,0,4
+167,R.404c,Hết đoạn đường dành cho xe buýt,Biển hiệu lệnh,,Có,0,4
+168,R.404d,Hết đoạn đường dành cho xe ô tô con,Biển hiệu lệnh,,Có,0,4
+169,R.404e,Hết đoạn đường dành cho xe máy,Biển hiệu lệnh,,Có,0,4
+170,R.404f,Hết đoạn đường dành cho xe máy và xe đạp,Biển hiệu lệnh,,Có,0,4
+171,R.411,Hướng đi trên mỗi làn đường phải theo,Biển hiệu lệnh,,Có,0,12
+172,R.412a,Làn đường dành cho xe ô tô khách,Biển hiệu lệnh,,Có,0,4
+173,R.412b,Làn đường dành cho xe ô tô con,Biển hiệu lệnh,,Có,0,4
+174,R.412c,Làn đường dành cho xe ô tô tải,Biển hiệu lệnh,,Có,0,4
+175,R.412d,Làn đường dành cho xe máy,Biển hiệu lệnh,,Có,0,4
+176,R.412e,Làn đường dành cho xe buýt,Biển hiệu lệnh,,Có,0,4
+177,R.412f,Làn đường dành cho xe ô tô,Biển hiệu lệnh,,Có,0,4
+178,R.412g,Làn đường dành cho xe máy và xe đạp,Biển hiệu lệnh,,Có,0,4
+179,R.412i,Kết thúc làn đường dành cho xe ô tô khách,Biển hiệu lệnh,,Có,0,4
+180,R.412j,Kết thúc làn đường dành cho xe ô tô con,Biển hiệu lệnh,,Có,0,4
+181,R.412k,Kết thúc làn đường dành cho xe ô tô tải,Biển hiệu lệnh,,Có,0,4
+182,R.412l,Kết thúc làn đường dành cho xe máy,Biển hiệu lệnh,,Có,0,4
+183,R.412m,Kết thúc làn đường dành cho xe buýt,Biển hiệu lệnh,,Có,0,4
+184,R.412n,Kết thúc làn đường dành cho xe ô tô,Biển hiệu lệnh,,Có,0,4
+185,R.412o,Kết thúc làn đường dành cho xe máy và xe đạp,Biển hiệu lệnh,,Có,0,4
+186,R.415a,Phân làn,Biển hiệu lệnh,,Có,0,12
+187,R.415b,Hết phân làn,Biển hiệu lệnh,,Có,0,12
+188,R.420,Bắt đầu khu đông dân cư,Biển hiệu lệnh,,Có,0,11
+189,R.421,Hết khu đông dân cư,Biển hiệu lệnh,,Có,0,11
+190,"R.E,9a",Cấm đỗ xe trong khu vực,Biển hiệu lệnh,,Có,0,10
+191,"R.E,9b",Cấm đỗ xe theo giờ trong khu vực,Biển hiệu lệnh,,Có,0,10
+192,"R.E,9c",Khu vực đỗ xe,Biển hiệu lệnh,,Có,0,10
+193,"R.E,9d",Tốc độ tối đa trong khu vực,Biển hiệu lệnh,,Có,0,10
+194,"R.E,11a",Đường hầm,Biển hiệu lệnh,,Có,0,4
+195,"R.E,11b",Kết thúc đường hầm,Biển hiệu lệnh,,Có,0,4
+196,I.401,Bắt đầu đường ưu tiên,Biển chỉ dẫn,,Có,0,8
+197,I.402,Hết đoạn đường ưu tiên,Biển chỉ dẫn,,Có,0,8
+198,I.405a,Đường cụt,Biển chỉ dẫn,,Có,0,4
+199,I.405b,Đường cụt,Biển chỉ dẫn,,Có,0,4
+200,I.405c,Đường cụt,Biển chỉ dẫn,,Có,0,3
+201,I.406,Được ưu tiên qua đường hẹp,Biển chỉ dẫn,,Có,0,3
+202,I.407a,Đường một chiều,Biển chỉ dẫn,,Có,0,3
+203,I.407b,Đường một chiều,Biển chỉ dẫn,,Có,0,9
+204,I.407c,Đường một chiều,Biển chỉ dẫn,,Có,0,9
+205,I.408,Nơi đỗ xe,Biển chỉ dẫn,,Có,0,3
+206,I.408a,Nơi đỗ xe một phần trên hè phố,Biển chỉ dẫn,,Có,0,3
+207,I.409,Chỗ quay xe,Biển chỉ dẫn,,Có,0,3
+208,I.410,Khu vực quay xe,Biển chỉ dẫn,,Có,0,3
+209,I.416,Đường tránh,Biển chỉ dẫn,,Có,0,7
+210,I.418,Lối đi ở những vị trí cấm rẽ,Biển chỉ dẫn,,Có,0,6
+211,I.423a,Vị trí người đi bộ sang ngang,Biển chỉ dẫn,,Có,0,3
+212,I.423b,Vị trí người đi bộ sang ngang,Biển chỉ dẫn,,Có,0,3
+213,I.423c,Điểm bắt đầu đường đi bộ,Biển chỉ dẫn,,Có,0,4
+214,I.424a,Cầu vượt qua đường cho người đi bộ,Biển chỉ dẫn,,Có,0,3
+215,I.424b,Cầu vượt qua đường cho người đi bộ,Biển chỉ dẫn,,Có,0,3
+216,I.424c,Hầm chui qua đường cho người đi bộ,Biển chỉ dẫn,,Có,0,3
+217,I.424d,Hầm chui qua đường cho người đi bộ,Biển chỉ dẫn,,Có,0,3
